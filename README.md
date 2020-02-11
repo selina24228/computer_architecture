@@ -1,2 +1,3 @@
-# computer_architecture_investigation
-markdown 語法：https://markdown.tw/
+# computer_architecture
+This respositary is used to record what I've done in course "Computer architechture".
+
